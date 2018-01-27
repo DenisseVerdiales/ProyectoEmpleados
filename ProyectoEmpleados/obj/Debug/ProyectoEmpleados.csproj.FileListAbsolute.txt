@@ -1,0 +1,10 @@
+C:\Users\Denisse\Desktop\ProyectoEmpleados\ProyectoEmpleados\bin\Debug\ProyectoEmpleados.exe.config
+C:\Users\Denisse\Desktop\ProyectoEmpleados\ProyectoEmpleados\bin\Debug\ProyectoEmpleados.exe
+C:\Users\Denisse\Desktop\ProyectoEmpleados\ProyectoEmpleados\bin\Debug\ProyectoEmpleados.pdb
+C:\Users\Denisse\Desktop\ProyectoEmpleados\ProyectoEmpleados\obj\Debug\ProyectoEmpleados.csprojResolveAssemblyReference.cache
+C:\Users\Denisse\Desktop\ProyectoEmpleados\ProyectoEmpleados\obj\Debug\ProyectoEmpleados.Alta.resources
+C:\Users\Denisse\Desktop\ProyectoEmpleados\ProyectoEmpleados\obj\Debug\ProyectoEmpleados.Form1.resources
+C:\Users\Denisse\Desktop\ProyectoEmpleados\ProyectoEmpleados\obj\Debug\ProyectoEmpleados.Properties.Resources.resources
+C:\Users\Denisse\Desktop\ProyectoEmpleados\ProyectoEmpleados\obj\Debug\ProyectoEmpleados.csproj.GenerateResource.Cache
+C:\Users\Denisse\Desktop\ProyectoEmpleados\ProyectoEmpleados\obj\Debug\ProyectoEmpleados.exe
+C:\Users\Denisse\Desktop\ProyectoEmpleados\ProyectoEmpleados\obj\Debug\ProyectoEmpleados.pdb
